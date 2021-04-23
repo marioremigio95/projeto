@@ -1,3 +1,7 @@
+README – Data and Code for: “Reproducible Paper Example”
+================
+Mário Remígio
+21/04/2021
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
